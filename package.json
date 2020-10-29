@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jjmax75/forwarder/issues"
   },
-  "homepage": "https://github.com/jjmax75/forwarder#readme"
+  "homepage": "https://github.com/jjmax75/forwarder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
