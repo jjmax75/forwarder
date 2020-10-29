@@ -1,5 +1,7 @@
 const express = require('express');
 
+const handler = require('./handler');
+
 const app = express();
 
 app.get('/', (req, res) => {
