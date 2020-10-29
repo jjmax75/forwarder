@@ -1,0 +1,19 @@
+{
+  "name": "forwarder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jjmax75/forwarder.git"
+  },
+  "author": "John Behan <behanj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjmax75/forwarder/issues"
+  },
+  "homepage": "https://github.com/jjmax75/forwarder#readme"
+}
